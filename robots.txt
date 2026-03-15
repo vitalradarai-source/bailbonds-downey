@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bailbonds-downey.com/sitemap.xml
